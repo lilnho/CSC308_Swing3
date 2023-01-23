@@ -8,7 +8,7 @@ Code for the Ghost class.
  * @version 1.0
  * @since 2023-22-01
  */
-public class Ghost {
+public class Ghost implements Drawable{
     private int xPosition = 400;
     private int yPosition = 400;
 

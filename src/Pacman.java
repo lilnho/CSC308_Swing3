@@ -1,10 +1,11 @@
 import java.awt.*;
 
 /**
- * Pacman Class
+ * Pacman Class code
  *
  * @author Nathan Ho
  */
+
 public class Pacman implements Drawable{
     private int positionX;
     private int positionY;

@@ -4,6 +4,13 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
+/**
+ * The game class that creates and runs the version 1 of the pacman game.
+ *
+ * @author      Matthew Wingerden
+ * @version     1.0
+ * @since       1/23/2023
+ */
 public class Game extends JFrame implements ActionListener, KeyListener {
     private Maze maze;
     private Pacman pacman;

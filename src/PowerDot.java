@@ -2,7 +2,7 @@ import java.awt.*;
 
 //code for the Powerdot Class
 /**
- *@author Pablo Nguyen
+ *@author Kevin Henderson
  * @version 1.0
  * @since 2023-23-01
  */
